@@ -6,8 +6,6 @@
 
 Olá! Sou um desenvolvedor com formação em Jogos Digitais e um forte interesse em desenvolvimento **Front-end**. Minhas principais competências incluem **HTML, CSS, JavaScript, React e Next.js**. Estou sempre em busca de novos desafios e oportunidades. Atualmente começando a explorar o **Back-end**.
 
---
-
 ## 🚀 Habilidades
 
 - **Linguagens**: HTML, CSS, JavaScript
@@ -15,13 +13,9 @@ Olá! Sou um desenvolvedor com formação em Jogos Digitais e um forte interesse
 - **Ferramentas**: VS Code, Git, Github, PhotoShop, Windows
 - **Soft Skills**: Trabalho em equipe, Organização, Comunicação, Empatia, Resiliência, Flexibilidade, Criatividade, Proatividade, Adaptabilidade.
 
---
-
 ## 🎓 Formação Acadêmica
 
 - **Tecnólogo em Jogos Digitais** – FATEC, Carapicuíba - SP *(Fev 2020 – Nov 2022)*  
-
---
 
 ## 📚 Cursos e Certificações
 
@@ -30,17 +24,12 @@ Olá! Sou um desenvolvedor com formação em Jogos Digitais e um forte interesse
 - NLW Connect - React (2025)
 - Lógica de programação - DIO (2025)
 
---
-
 ## 💼 Experiência Profissional
 
 **Cacau Show – São Paulo/SP (2012–2013)**  
 - Aprendiz segurança do trabalho
-- 
 **Redecenter Materiais Plásticos e Acessórios LTDA – São Paulo/SP (2017–2025)**  
 - Analista Lógico
-- 
----
 
 ## 💻 Projetos em Destaque
 
@@ -49,8 +38,6 @@ Olá! Sou um desenvolvedor com formação em Jogos Digitais e um forte interesse
 | [Genius](https://github.com/MarcosFelixmdr/projeto_genius_js_2) | Jogo baseado no famoso jogo genius, projeto de conclusão de curso SENAI 2025 |
 | [Página dinâmica Dragon Ball](https://github.com/MarcosFelixmdr/Projeto-Dragon-ball?tab=readme-ov-file) | Uma página feita com HTML, CSS e JavaScript |
 | [Carrosel de produtos](https://github.com/MarcosFelixmdr/Carrossel-de-produtos) | Carrosel de produtos baseado na loja online da RiHappy |
-
----
 
 ## 📊 GitHub Stats
 
@@ -69,17 +56,12 @@ Olá! Sou um desenvolvedor com formação em Jogos Digitais e um forte interesse
  
 </div>
 
-
---
-
 ## 📫 Contato
 
 - 📧 Email: Marcosfelixdev@gmail.com 
 - 📍 Petrópolis – RJ  
 - 📱 (11) 96625-1851  
 - 💼 LinkedIn: (https://www.linkedin.com/in/marcos-felix-695575326/)
-
---
  
 ### Minhas redes sociais
  
