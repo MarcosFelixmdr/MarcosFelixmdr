@@ -28,6 +28,7 @@ Olá! Sou um desenvolvedor com formação em Jogos Digitais e um forte interesse
 
 **Cacau Show – São Paulo/SP (2012–2013)**  
 - Aprendiz segurança do trabalho
+
 **Redecenter Materiais Plásticos e Acessórios LTDA – São Paulo/SP (2017–2025)**  
 - Analista Lógico
 
