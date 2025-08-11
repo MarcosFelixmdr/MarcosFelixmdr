@@ -30,7 +30,7 @@ Olá! Sou um desenvolvedor com formação em Jogos Digitais e um forte interesse
 - Aprendiz segurança do trabalho
 
 **Redecenter Materiais Plásticos e Acessórios LTDA – São Paulo/SP (2017–2025)**  
-- Analista Lógistico
+- Analista Logístico
 
 ## 💻 Projetos em Destaque
 
@@ -58,10 +58,10 @@ Olá! Sou um desenvolvedor com formação em Jogos Digitais e um forte interesse
 
 ## 📫 Contato
 
-- 📧 E-mail: Marcosfelixdev@gmail.com 
-- 📍 Petrópolis – RJ  
-- 📱 (11) 96625-1851  
 - 💼 LinkedIn: (https://www.linkedin.com/in/marcos-felix-695575326/)
+- 📧 E-mail: Marcosfelixdev@gmail.com 
+- 📱 (11) 96625-1851  
+- 📍 Petrópolis – RJ  
  
 ### Minhas redes sociais
  
