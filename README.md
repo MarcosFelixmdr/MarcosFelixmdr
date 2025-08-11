@@ -19,7 +19,7 @@ Olá! Sou um desenvolvedor com formação em Jogos Digitais e um forte interesse
 
 ## 📚 Cursos e Certificações
 
-- Desenvolvimento Full-Stack - SENAI (Em andamento)
+- Desenvolvedor Full-Stack - SENAI (Em andamento)
 - Desenvolvedor Front-end – SENAI (2025)
 - NLW Connect - React (2025)
 - Lógica de programação - DIO (2025)
@@ -30,7 +30,7 @@ Olá! Sou um desenvolvedor com formação em Jogos Digitais e um forte interesse
 - Aprendiz segurança do trabalho
 
 **Redecenter Materiais Plásticos e Acessórios LTDA – São Paulo/SP (2017–2025)**  
-- Analista Lógico
+- Analista Lógistico
 
 ## 💻 Projetos em Destaque
 
@@ -58,7 +58,7 @@ Olá! Sou um desenvolvedor com formação em Jogos Digitais e um forte interesse
 
 ## 📫 Contato
 
-- 📧 Email: Marcosfelixdev@gmail.com 
+- 📧 E-mail: Marcosfelixdev@gmail.com 
 - 📍 Petrópolis – RJ  
 - 📱 (11) 96625-1851  
 - 💼 LinkedIn: (https://www.linkedin.com/in/marcos-felix-695575326/)
@@ -66,8 +66,8 @@ Olá! Sou um desenvolvedor com formação em Jogos Digitais e um forte interesse
 ### Minhas redes sociais
  
 <div> 
-  <a href="https://instagram.com/MarcosFelix.mdr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/users/marcosfelixdev" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:marcosfelixdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcos-felix-695575326//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:marcosfelixdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://discord.com/users/marcosfelixdev" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/MarcosFelix.mdr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
