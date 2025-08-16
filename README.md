@@ -62,7 +62,7 @@ Olá! Sou um desenvolvedor com formação em Jogos Digitais e um forte interesse
 
 ## 📫 Contato
 
-- 💼 LinkedIn: (https://www.linkedin.com/in/marcos-felix-695575326/)
+- 💼 LinkedIn: https://www.linkedin.com/in/marcos-felix-695575326/
 - 📧 E-mail: Marcosfelixdev@gmail.com 
 - 📱 (11) 96625-1851  
 - 📍 Petrópolis – RJ  
