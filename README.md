@@ -41,6 +41,11 @@ Olá! Sou um desenvolvedor com formação em Jogos Digitais e um forte interesse
 | [Carrosel de produtos](https://github.com/MarcosFelixmdr/Carrossel-de-produtos) | Carrosel de produtos baseado na loja online da RiHappy |
 
 ## 📊 GitHub Stats
+<div align="start">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MarcosFelixMDR.MarcosFelixMDR&"  />
+</div>
+
+###
 
 <div>
    <a href="https://github.com/MarcosFelixmdr">
@@ -60,11 +65,6 @@ Olá! Sou um desenvolvedor com formação em Jogos Digitais e um forte interesse
   <img align="center" alt="PHOTOSHOP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg">  
 </div>
 
-<div align="start">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MarcosFelixMDR.MarcosFelixMDR&"  />
-</div>
-
-###
 ## 📫 Contato
 
 - 💼 LinkedIn: https://www.linkedin.com/in/marcos-felix-695575326/
