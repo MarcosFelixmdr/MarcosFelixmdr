@@ -60,17 +60,17 @@ Olá! Sou um desenvolvedor com formação em Jogos Digitais e um forte interesse
   <img align="center" alt="PHOTOSHOP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg">  
 </div>
 
+<div align="start">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MarcosFelixMDR.MarcosFelixMDR&"  />
+</div>
+
+###
 ## 📫 Contato
 
 - 💼 LinkedIn: https://www.linkedin.com/in/marcos-felix-695575326/
 - 📧 E-mail: Marcosfelixdev@gmail.com 
 - 📱 (11) 96625-1851  
 - 📍 Petrópolis – RJ
-  <div align="start">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MarcosFelixMDR.MarcosFelixMDR&"  />
-</div>
-
-###
  
 ### Minhas redes sociais
  
