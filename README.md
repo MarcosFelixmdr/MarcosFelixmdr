@@ -65,7 +65,12 @@ Olá! Sou um desenvolvedor com formação em Jogos Digitais e um forte interesse
 - 💼 LinkedIn: https://www.linkedin.com/in/marcos-felix-695575326/
 - 📧 E-mail: Marcosfelixdev@gmail.com 
 - 📱 (11) 96625-1851  
-- 📍 Petrópolis – RJ  
+- 📍 Petrópolis – RJ
+  <div align="start">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MarcosFelixMDR.MarcosFelixMDR&"  />
+</div>
+
+###
  
 ### Minhas redes sociais
  
@@ -75,10 +80,6 @@ Olá! Sou um desenvolvedor com formação em Jogos Digitais e um forte interesse
  <a href="https://discord.com/users/marcosfelixdev" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/MarcosFelix.mdr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-<div align="end">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MarcosFelixMDR.MarcosFelixMDR&"  />
-</div>
 
-###
 
 
