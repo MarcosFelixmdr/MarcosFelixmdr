@@ -1,5 +1,5 @@
 # Bem-vindo(a) 😁
-<div align="center">
+<div align="start">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MarcosFelixMDR.MarcosFelixMDR&"  />
 </div>
 
