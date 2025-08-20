@@ -34,14 +34,14 @@ Olá! Sou um desenvolvedor com formação em Jogos Digitais e um forte interesse
 
 ## 💻 Projetos em Destaque
 
-| Projeto | Descrição |
+| Projeto | Descrição | <div align="end">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 |--------|-----------|
 | [Genius](https://github.com/MarcosFelixmdr/projeto_genius_js_2) | Jogo baseado no famoso jogo genius, projeto de conclusão de curso SENAI 2025 |
 | [Página dinâmica Dragon Ball](https://github.com/MarcosFelixmdr/Projeto-Dragon-ball?tab=readme-ov-file) | Uma página feita com HTML, CSS e JavaScript |
 | [Carrosel de produtos](https://github.com/MarcosFelixmdr/Carrossel-de-produtos) | Carrosel de produtos baseado na loja online da RiHappy |
-<div align="end">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+
 
 ## 📊 GitHub Stats
 <div align="start">
