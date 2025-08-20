@@ -74,10 +74,10 @@ Olá! Sou um desenvolvedor com formação em Jogos Digitais e um forte interesse
   <a href = "mailto:marcosfelixdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/users/marcosfelixdev" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/MarcosFelix.mdr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
-
-<div align="center">
+</div><div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MarcosFelixMDR.MarcosFelixMDR&"  />
 </div>
 
 ###
+
+
