@@ -32,6 +32,10 @@ Olá! Sou um desenvolvedor com formação em Jogos Digitais e um forte interesse
 **Redecenter Materiais Plásticos e Acessórios LTDA – São Paulo/SP (2017–2025)**  
 - Analista Logístico
 
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 ## 💻 Projetos em Destaque
 
 | Projeto | Descrição |
