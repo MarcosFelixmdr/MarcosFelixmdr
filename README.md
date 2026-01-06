@@ -19,7 +19,7 @@ Olá! Sou um desenvolvedor com formação em Jogos Digitais e um forte interesse
 
 ## 📚 Cursos e Certificações
 
-- Desenvolvedor Full-Stack - SENAI (Em andamento)
+- Desenvolvedor Full-Stack - SENAI (2025)
 - Desenvolvedor Front-end – SENAI (2025)
 - NLW Connect - React (2025)
 - Lógica de programação - DIO (2025)
